@@ -1,0 +1,10 @@
+
+id,nama_tugas,anggota,prioritas,status,tanggal_mulai,tenggat,progress
+1,Membuat desain dashboard,Andi,High,In Progress,2026-11-10,2026-11-15,50
+2,Membuat database,Budi,High,Done,2026-11-08,2026-11-11,100
+3,Membuat halaman login,Citra,Medium,To Do,2026-11-12,2026-11-18,0
+4,Membuat laporan proyek,Dinda,Low,In Progress,2026-11-09,2026-11-20,40
+5,Menguji dashboard,Eko,Medium,To Do,2026-11-12,2026-11-22,0
+6,Membuat grafik tugas,Andi,High,Done,2026-11-05,2026-11-10,100
+7,Mengecek database,Budi,Medium,In Progress,2026-11-11,2026-11-16,60
+8,Merapikan tampilan,Citra,Low,To Do,2026-11-12,2026-11-25,0
