@@ -1,0 +1,5 @@
+altair
+pandas
+psycopg2-binary
+SQLAlchemy
+streamlit
